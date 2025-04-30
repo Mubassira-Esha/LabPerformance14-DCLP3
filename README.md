@@ -10,4 +10,3 @@ It checks the product of each combination and prints the valid combination if fo
 
 ![Output](Output/Case2.png)
 
-![Output](Output/#Case1.png)
